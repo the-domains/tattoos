@@ -2,6 +2,7 @@ name: Tattoos
 favicon: null
 layout_spectrum: 0.41566619207151234
 typography_spectrum: 0.6437379640992731
+title: Tattoos
 cta:
   domain: null
   bucket: null

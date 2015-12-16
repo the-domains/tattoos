@@ -1,0 +1,28 @@
+name: Tattoos
+favicon: null
+layout_spectrum: 0.41566619207151234
+typography_spectrum: 0.6437379640992731
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.13659166358411312
+  lightness: 0.9318083054386079
+  saturation: 0.695459132315591
+  rhythmicContrast: 0.21452924306504428
+purpose: []

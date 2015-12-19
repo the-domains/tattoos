@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://www.instagram.com/p/9CAYTqqhEF/?taken-by=illustratedalex'
 title: 'Healed pic of these deer at the water tattoo #tattoo #tattooalex #tattoobyalex #mountainsidetattoovt #girlswithtattoos #deer #deertattoos #vt #vermont #vttattoo #802 #802tattoo'
-datePublished: '2015-12-16T19:34:27.743Z'
-dateModified: '2015-12-16T19:33:27.261Z'
+datePublished: '2015-12-19T23:11:48.529Z'
+dateModified: '2015-12-19T23:11:37.833Z'
 sourcePath: _posts/2015-12-16-healed-pic-of-these-deer-at-the-water-tattoo-tattoo-tattoo.md
 published: true
 inFeed: true
